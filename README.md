@@ -1,5 +1,5 @@
 
-# Reacreating a form layout
+# Recreating a form layout
 ![image](https://github.com/rodirog/formulario-intermediario/assets/101756238/56b22fc7-b1b1-42db-ae74-c37c5e0c72e7)
 
 
